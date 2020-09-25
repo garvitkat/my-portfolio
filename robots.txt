@@ -1,6 +1,0 @@
-User-Agent: *
-Disallow: 
-Allow: /index
-Allow: /index.html
-
-Sitemap: https://www.akshatvg.com/sitemap.xml
